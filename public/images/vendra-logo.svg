@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 48" fill="none">
+  <defs>
+    <linearGradient id="vendraEmerald" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F5C45" />
+      <stop offset="100%" stop-color="#1E8264" />
+    </linearGradient>
+    <linearGradient id="vendraOrange" x1="0" y1="0" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F28C28" />
+      <stop offset="100%" stop-color="#FFA54C" />
+    </linearGradient>
+  </defs>
+
+  
+  <rect x="2" y="2" width="44" height="44" rx="13" fill="url(#vendraEmerald)" />
+  <rect x="2.75" y="2.75" width="42.5" height="42.5" rx="12.25" stroke="#F28C28" stroke-opacity="0.35" stroke-width="1.5" />
+
+  
+  <path d="M18 17V14.5C18 11.4624 20.4624 9 23.5 9H24.5C27.5376 9 30 11.4624 30 14.5V17" stroke="url(#vendraOrange)" stroke-width="2.5" stroke-linecap="round" />
+
+  
+  <path d="M14.5 17H33.5L32.2 33.2C32.08 34.78 30.76 36 29.18 36H18.82C17.24 36 15.92 34.78 15.8 33.2L14.5 17Z" stroke="#FFFFFF" stroke-width="2.4" stroke-linejoin="round" />
+
+  
+  <path d="M20.2 26.2L22.8 28.8L28.2 23.4" stroke="#F28C28" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  
+  <text x="58" y="33" fill="#10211A" font-family="&#39;Plus Jakarta Sans&#39;, system-ui, -apple-system, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.04em">
+    Vendra
+  </text>
+
+  
+  <circle cx="151" cy="30" r="3.6" fill="#F28C28" />
+</svg>
